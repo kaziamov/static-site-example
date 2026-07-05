@@ -1,0 +1,17 @@
+title: Ecommerce Tools
+description: Legal, support, and product resources for Ecommerce Tools apps.
+url: "https://ecommerce-tools.kaziamov.com"
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Makefile
