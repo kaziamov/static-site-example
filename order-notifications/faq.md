@@ -59,7 +59,7 @@ uses no advertising or analytics trackers on customer devices.
 
 Check that the rule is active, the destination email address or Slack webhook is
 current, and the order matches the rule filters. If the issue continues, email
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com) with the store domain, approximate
+[support@kaziamov.com](mailto:support@kaziamov.com) with the store domain, approximate
 time, and rule name. Do not include customer data or credentials.
 
 ## How do I uninstall the app?

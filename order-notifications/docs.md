@@ -53,7 +53,7 @@ review recent delivery status in the activity view.
 ## App review notes
 
 For Shopify review, use the public URLs on this site and the support email
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com). Test credentials, store access,
+[support@kaziamov.com](mailto:support@kaziamov.com). Test credentials, store access,
 and inbox details must be supplied through the approved private submission
 channels, not committed to this repository.
 

@@ -14,7 +14,7 @@ permalink: /order-notifications/privacy/
 Order Notifications is operated by Ilia Kaziamov, an individual entrepreneur
 registered in Georgia (I/E ILIA KAZIAMOV) - "we", "us" or "the operator" in
 this policy. For anything related to this policy or your data, contact
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com).
+[support@kaziamov.com](mailto:support@kaziamov.com).
 
 ## What data we access from Shopify
 
@@ -124,7 +124,7 @@ request data access or deletion through Shopify (`customers/data_request`,
 `customers/redact`, `shop/redact`), we respond automatically: stored
 notification content for the affected customer is redacted and shop data is
 deleted on schedule. You can also email us at
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com) to request a copy or deletion of
+[support@kaziamov.com](mailto:support@kaziamov.com) to request a copy or deletion of
 the data we hold for your store.
 
 ## Uninstalling
@@ -141,7 +141,7 @@ how we handle your data, we will notify installed merchants by email.
 ## Contact
 
 Questions about this policy or your data:
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com) (Ilia Kaziamov,
+[support@kaziamov.com](mailto:support@kaziamov.com) (Ilia Kaziamov,
 I/E ILIA KAZIAMOV, Georgia).
 
 </article>

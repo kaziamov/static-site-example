@@ -99,7 +99,7 @@ otherwise.
 ## Support
 
 For setup help, billing questions, or to report a bug, email
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com). Do not send Shopify API
+[support@kaziamov.com](mailto:support@kaziamov.com). Do not send Shopify API
 credentials, Slack tokens, or customer data in support requests.
 
 </article>

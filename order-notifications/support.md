@@ -10,7 +10,7 @@ permalink: /order-notifications/support/
 # Order Notifications support
 
 For setup help, billing questions, privacy requests, or bug reports, email
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com).
+[support@kaziamov.com](mailto:support@kaziamov.com).
 
 ## Include
 
@@ -30,7 +30,7 @@ For setup help, billing questions, privacy requests, or bug reports, email
 ## Privacy requests
 
 For data access or deletion requests, email
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com). Shopify privacy webhooks are also
+[support@kaziamov.com](mailto:support@kaziamov.com). Shopify privacy webhooks are also
 implemented for `customers/data_request`, `customers/redact`, and `shop/redact`.
 
 </article>

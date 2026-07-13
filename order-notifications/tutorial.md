@@ -78,7 +78,7 @@ If a message does not arrive, check:
 - The destination email address or Slack webhook is correct.
 - The message did not land in spam or a restricted Slack channel.
 
-For help, email [ilia@kaziamov.com](mailto:ilia@kaziamov.com) with the store
+For help, email [support@kaziamov.com](mailto:support@kaziamov.com) with the store
 domain, rule name, approximate time, and what you expected to happen. Do not
 send customer data, Shopify API credentials, or Slack tokens.
 

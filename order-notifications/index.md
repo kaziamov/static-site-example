@@ -65,7 +65,7 @@ qualify, and what details each recipient is allowed to see.
 <article class="app-card" markdown="1">
 ## Support
 
-Email [ilia@kaziamov.com](mailto:ilia@kaziamov.com) for setup help, billing
+Email [support@kaziamov.com](mailto:support@kaziamov.com) for setup help, billing
 questions, privacy requests, or bug reports. Do not send Shopify API credentials,
 Slack tokens, or customer data in support requests.
 </article>

@@ -65,6 +65,6 @@ Current namespace: `/order-notifications/`.
 ## Support contact
 
 For setup help, billing questions, privacy requests, or bug reports, email
-[ilia@kaziamov.com](mailto:ilia@kaziamov.com).
+[support@kaziamov.com](mailto:support@kaziamov.com).
 </article>
 </section>
