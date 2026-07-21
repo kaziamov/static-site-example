@@ -24,21 +24,22 @@ from the embedded app. Pricing is shown inside the embedded app for this release
 ## Current behavior
 
 - The embedded Pricing page now renders plan details and email usage inside the app.
-- The app does not show a "Manage plan in Shopify" action.
-- The app exposes no visible link or button that points to `pricing_plans`.
+- The app shows the "Manage plan in Shopify" action in a disabled state while the app record is not published.
+- The disabled action has no `pricing_plans` link target.
+- The app shows a notice explaining that Shopify plan selection is unavailable because the app record is not published yet.
 - Opening and reloading `/app/pricing` keeps the reviewer inside the embedded app.
 
 ## Production verification
 
 - Shopify Admin app URL: `https://admin.shopify.com/store/devstore222024/apps/order-notifications-11/app`
 - App iframe origin: `https://order-notifications.kaziamov.com`
-- Verified Worker version: `d6d457cb-35cf-4ff5-a054-df5c87f18234`
+- Verified Worker version: `7e4ce06c-9804-4f4e-9f89-3c684270a249`
 - Result: embedded Pricing page opens without Shopify Admin 404.
 - Result: reloading the embedded Pricing URL keeps the Pricing page visible.
 - Result: "Email usage this month" is visible.
-- Result: "Shopify plan selection is not available for this app record yet." is visible.
-- Result: "Manage plan in Shopify" is not visible.
-- Result: no visible `pricing_plans` URL is exposed.
+- Result: "Shopify plan selection is not available because this app record is not published yet." is visible.
+- Result: "Manage plan in Shopify" is visible and disabled.
+- Result: no active `pricing_plans` URL is exposed.
 
 ## Reviewer note
 
