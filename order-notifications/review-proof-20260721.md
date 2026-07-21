@@ -33,7 +33,7 @@ from the embedded app. Pricing is shown inside the embedded app for this release
 
 - Shopify Admin app URL: `https://admin.shopify.com/store/devstore222024/apps/order-notifications-11/app`
 - App iframe origin: `https://order-notifications.kaziamov.com`
-- Verified Worker version: `6ff6ce9f-ae6f-4cbe-9253-1b76d25d1b48`
+- Verified Worker version: `5c3aa535-d356-4c72-a12c-b7ec308ba3c6`
 - Result: embedded Pricing page opens without Shopify Admin 404.
 - Result: reloading the embedded Pricing URL keeps the Pricing page visible.
 - Result: "Email usage this month" is visible.
