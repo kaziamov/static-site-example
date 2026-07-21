@@ -11,42 +11,33 @@ permalink: /order-notifications/review-proof-20260721/
 
 ## Summary
 
-The Shopify review screencast showed a Shopify Admin 404 at:
+The review screencast showed a Shopify Admin 404 at:
 
 `/charges/order-notifications/pricing_plans`
 
-That page is Shopify's hosted App Pricing plan selection page. It is outside
-the Order Notifications app iframe.
+This URL belongs to Shopify’s hosted App Pricing page and is outside the Order Notifications embedded app.
 
-Order Notifications no longer sends reviewers or merchants to that hosted page
-from the embedded app. Pricing is shown inside the embedded app for this release.
+The issue occurred because the app exposed this link before the app listing and Shopify-hosted pricing page were available.
 
-## Current behavior
+## Changes implemented
 
-- The embedded Pricing page now renders plan details and email usage inside the app.
-- The app shows the "Manage plan in Shopify" action in a disabled state while the app record is not published.
-- The disabled action has no `pricing_plans` link target.
-- The app shows a notice explaining that Shopify plan selection is unavailable because the app record is not published yet.
-- Opening and reloading `/app/pricing` keeps the reviewer inside the embedded app.
+To prevent this issue from occurring again, we made the following changes:
 
-## Production verification
+* The Shopify-hosted plan management action is not available while the app is unpublished.
+* When the app is unpublished, the app does not render or navigate to any `/pricing_plans` URL.
+* Pricing information and current email usage are displayed directly inside the embedded app.
+* Reviewers can open and reload `/app/pricing` without leaving the embedded app or encountering a Shopify Admin 404.
+* A notice explains that Shopify plan selection will become available after the app is published.
+* Once the app is published and Shopify-hosted pricing becomes available, the plan management action will be enabled for merchants.
 
-- Shopify Admin app URL: `https://admin.shopify.com/store/devstore222024/apps/order-notifications-11/app`
-- App iframe origin: `https://order-notifications.kaziamov.com`
-- Verified Worker version: `5c3aa535-d356-4c72-a12c-b7ec308ba3c6`
-- Result: embedded Pricing page opens without Shopify Admin 404.
-- Result: reloading the embedded Pricing URL keeps the Pricing page visible.
-- Result: "Email usage this month" is visible.
-- Result: "Shopify plan selection is not available because this app record is not published yet." is visible.
-- Result: "Manage plan in Shopify" is visible and disabled.
-- Result: no active `pricing_plans` URL is exposed.
+## Verification
 
-## Reviewer note
+We verified that, while the app is unpublished:
 
-The hosted Shopify URL can still return Shopify Admin 404 while Shopify cannot
-resolve the hosted App Pricing surface for the app record. Order Notifications
-does not route merchants to that hosted page from the embedded app, so the
-reviewer-facing billing flow remains inside the app and avoids the Shopify Admin
-404 shown in the screencast.
+* No active link to Shopify’s hosted pricing page is present.
+* Clicking the pricing-related controls cannot initiate navigation to `/charges/order-notifications/pricing_plans`.
+* Opening or refreshing `/app/pricing` remains inside the embedded application.
+* Merchants and reviewers can still view the available plans and usage information without accessing the unavailable Shopify-hosted page.
+
 
 </article>
