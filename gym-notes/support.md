@@ -10,7 +10,7 @@ permalink: /gym-notes/support/
 
 For support, bug reports, or feedback, contact:
 
-**Ilia Kaziamov**
+**Ilia Kaziamov, Georgia**
 Email: [support@kaziamov.com](mailto:support@kaziamov.com)
 Response language(s): English
 Expected response time: Within 3 business days

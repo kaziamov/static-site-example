@@ -46,4 +46,4 @@ If the app later adds cloud services, analytics, accounts, or other data process
 
 Developer: Ilia Kaziamov
 Email: [support@kaziamov.com](mailto:support@kaziamov.com)
-Address or other legally required contact details: Ilia Kaziamov, I/E ILIA KAZIAMOV, Georgia. Contact via support@kaziamov.com.
+Address or other legally required contact details: Ilia Kaziamov, Georgia. Contact via support@kaziamov.com.
