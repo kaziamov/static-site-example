@@ -4,8 +4,16 @@ description: Setup tutorial for the Order Notifications Shopify app.
 permalink: /ecommerce-tools/order-notifications/tutorial/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Setup tutorial</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Setup tutorial</p>
 
 # Set up Order Notifications
 
@@ -81,5 +89,3 @@ If a message does not arrive, check:
 For help, email [support@kaziamov.com](mailto:support@kaziamov.com) with the store
 domain, rule name, approximate time, and what you expected to happen. Do not
 send customer data, Shopify API credentials, or Slack tokens.
-
-</article>

@@ -4,8 +4,16 @@ description: Additional documentation for Order Notifications merchants and revi
 permalink: /ecommerce-tools/order-notifications/docs/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Additional documentation</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Additional documentation</p>
 
 # Order Notifications documentation
 
@@ -56,5 +64,3 @@ For Shopify review, use the public URLs on this site and the support email
 [support@kaziamov.com](mailto:support@kaziamov.com). Test credentials, store access,
 and inbox details must be supplied through the approved private submission
 channels, not committed to this repository.
-
-</article>

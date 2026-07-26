@@ -4,8 +4,16 @@ description: Frequently asked questions for merchants using Order Notifications.
 permalink: /ecommerce-tools/order-notifications/faq/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Merchant FAQ</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Merchant FAQ</p>
 
 # Order Notifications FAQ
 
@@ -66,5 +74,3 @@ time, and rule name. Do not include customer data or credentials.
 
 Uninstall it from the Shopify admin. Uninstalling revokes the app access token
 and deletes recipient configuration and stored delivery connection secrets.
-
-</article>

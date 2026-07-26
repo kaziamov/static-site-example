@@ -1,49 +1,29 @@
 ---
-title: Developer website
+title: Ecommerce Tools - Developer website
 description: Public resource hub for Ecommerce Tools Shopify apps.
 permalink: /ecommerce-tools/
 ---
 
-<section class="hero" markdown="1">
-<div markdown="1">
-<p class="eyebrow">Developer website</p>
+# Ecommerce Tools
 
-# Public resources for Shopify apps
+Public resources for Shopify apps.
 
 Ecommerce Tools publishes app policies, merchant support material, changelogs,
 and setup guides here. These pages are designed to be stable, public, and easy
 to reference from Shopify App Store resource fields.
 
-<div class="button-row" markdown="1">
-[Open Order Notifications](/ecommerce-tools/order-notifications/){: .button }
-[Privacy policy](/ecommerce-tools/order-notifications/privacy/){: .button-secondary }
-</div>
-</div>
+[Open Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy policy](/ecommerce-tools/order-notifications/privacy/)
 
-<aside class="resource-card" aria-label="Shopify resource links" markdown="1">
-<header markdown="1">
-### Shopify resource links
-</header>
+## Shopify resource links
 
-<dl>
-  <dt>Privacy policy URL</dt>
-  <dd><a href="/ecommerce-tools/order-notifications/privacy/">/ecommerce-tools/order-notifications/privacy</a></dd>
-  <dt>Developer website</dt>
-  <dd><a href="/ecommerce-tools/">apps.kaziamov.com/ecommerce-tools</a></dd>
-  <dt>FAQ</dt>
-  <dd><a href="/ecommerce-tools/order-notifications/faq/">/ecommerce-tools/order-notifications/faq</a></dd>
-  <dt>Changelog</dt>
-  <dd><a href="/ecommerce-tools/order-notifications/changelog/">/ecommerce-tools/order-notifications/changelog</a></dd>
-  <dt>Tutorial</dt>
-  <dd><a href="/ecommerce-tools/order-notifications/tutorial/">/ecommerce-tools/order-notifications/tutorial</a></dd>
-  <dt>Additional documentation</dt>
-  <dd><a href="/ecommerce-tools/order-notifications/docs/">/ecommerce-tools/order-notifications/docs</a></dd>
-</dl>
-</aside>
-</section>
+- Privacy policy URL: [/ecommerce-tools/order-notifications/privacy/](/ecommerce-tools/order-notifications/privacy/)
+- Developer website: [apps.kaziamov.com/ecommerce-tools](/ecommerce-tools/)
+- FAQ: [/ecommerce-tools/order-notifications/faq/](/ecommerce-tools/order-notifications/faq/)
+- Changelog: [/ecommerce-tools/order-notifications/changelog/](/ecommerce-tools/order-notifications/changelog/)
+- Tutorial: [/ecommerce-tools/order-notifications/tutorial/](/ecommerce-tools/order-notifications/tutorial/)
+- Additional documentation: [/ecommerce-tools/order-notifications/docs/](/ecommerce-tools/order-notifications/docs/)
 
-<section class="grid" markdown="1">
-<article class="app-card" markdown="1">
 ## Order Notifications
 
 Route new Shopify orders to the people who fulfill them. Merchants define
@@ -51,21 +31,13 @@ recipient rules, choose filters, and decide which order details each recipient
 can see.
 
 [View app resources](/ecommerce-tools/order-notifications/)
-</article>
 
-<article class="app-card" markdown="1">
 ## Legal publishing pattern
 
 Each app gets its own URL namespace so Shopify resource links stay stable as the
-catalog grows.
+catalog grows. Current namespace: `/ecommerce-tools/order-notifications/`.
 
-Current namespace: `/ecommerce-tools/order-notifications/`.
-</article>
-
-<article class="app-card" markdown="1">
 ## Support contact
 
 For setup help, billing questions, privacy requests, or bug reports, email
 [support@kaziamov.com](mailto:support@kaziamov.com).
-</article>
-</section>

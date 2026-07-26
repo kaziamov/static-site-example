@@ -4,8 +4,16 @@ description: Public changelog for merchant-facing Order Notifications updates.
 permalink: /ecommerce-tools/order-notifications/changelog/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Public changelog</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Public changelog</p>
 
 # Order Notifications changelog
 
@@ -68,5 +76,3 @@ privacy, delivery behavior, or app review evidence.
 - Implemented the redesigned admin UI.
 - Wired the availability-class contract and Edge/backend integration plan.
 - Added Cloudflare Workers, Hyperdrive, and async FastAPI deployment notes.
-
-</article>

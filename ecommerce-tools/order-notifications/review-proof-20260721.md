@@ -4,8 +4,16 @@ description: Proof of resolution for the Shopify App Pricing 404 review issue.
 permalink: /ecommerce-tools/order-notifications/review-proof-20260721/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Verified July 21, 2026</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Verified July 21, 2026</p>
 
 # Order Notifications Shopify App Pricing proof
 
@@ -38,6 +46,3 @@ We verified that, while the app is unpublished:
 * Clicking the pricing-related controls cannot initiate navigation to `/charges/order-notifications/pricing_plans`.
 * Opening or refreshing `/app/pricing` remains inside the embedded application.
 * Merchants and reviewers can still view the available plans and usage information without accessing the unavailable Shopify-hosted page.
-
-
-</article>

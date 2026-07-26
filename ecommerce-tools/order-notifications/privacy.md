@@ -4,8 +4,16 @@ description: Privacy policy for the Order Notifications Shopify app.
 permalink: /ecommerce-tools/order-notifications/privacy/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Effective July 4, 2026</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Effective July 4, 2026</p>
 
 # Order Notifications privacy policy
 
@@ -143,5 +151,3 @@ how we handle your data, we will notify installed merchants by email.
 Questions about this policy or your data:
 [support@kaziamov.com](mailto:support@kaziamov.com) (Ilia Kaziamov,
 I/E ILIA KAZIAMOV, Georgia).
-
-</article>

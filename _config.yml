@@ -11,6 +11,10 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "ecommerce-tools"
+    values:
+      footer_notice: 'Ecommerce Tools is operated by Ilia Kaziamov, I/E ILIA KAZIAMOV, Georgia. Contact <a href="mailto:support@kaziamov.com">support@kaziamov.com</a>.'
 
 exclude:
   - README.md

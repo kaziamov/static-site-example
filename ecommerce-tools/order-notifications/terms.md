@@ -4,8 +4,16 @@ description: Terms of service for the Order Notifications Shopify app.
 permalink: /ecommerce-tools/order-notifications/terms/
 ---
 
-<article class="document" markdown="1">
-<p class="eyebrow">Last updated July 4, 2026</p>
+[Order Notifications](/ecommerce-tools/order-notifications/) ·
+[Privacy](/ecommerce-tools/order-notifications/privacy/) ·
+[Terms](/ecommerce-tools/order-notifications/terms/) ·
+[FAQ](/ecommerce-tools/order-notifications/faq/) ·
+[Changelog](/ecommerce-tools/order-notifications/changelog/) ·
+[Tutorial](/ecommerce-tools/order-notifications/tutorial/) ·
+[Docs](/ecommerce-tools/order-notifications/docs/) ·
+[Support](/ecommerce-tools/order-notifications/support/)
+
+<p class="meta">Last updated July 4, 2026</p>
 
 # Order Notifications terms of service
 
@@ -101,5 +109,3 @@ otherwise.
 For setup help, billing questions, or to report a bug, email
 [support@kaziamov.com](mailto:support@kaziamov.com). Do not send Shopify API
 credentials, Slack tokens, or customer data in support requests.
-
-</article>
