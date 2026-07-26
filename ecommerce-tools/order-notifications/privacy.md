@@ -1,7 +1,7 @@
 ---
 title: Order Notifications privacy policy
 description: Privacy policy for the Order Notifications Shopify app.
-permalink: /order-notifications/privacy/
+permalink: /ecommerce-tools/order-notifications/privacy/
 ---
 
 <article class="document" markdown="1">

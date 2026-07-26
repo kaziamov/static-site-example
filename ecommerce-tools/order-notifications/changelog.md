@@ -1,7 +1,7 @@
 ---
 title: Order Notifications changelog
 description: Public changelog for merchant-facing Order Notifications updates.
-permalink: /order-notifications/changelog/
+permalink: /ecommerce-tools/order-notifications/changelog/
 ---
 
 <article class="document" markdown="1">

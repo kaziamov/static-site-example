@@ -1,7 +1,7 @@
 ---
 title: Order Notifications support
 description: Support contact and request guidance for Order Notifications.
-permalink: /order-notifications/support/
+permalink: /ecommerce-tools/order-notifications/support/
 ---
 
 <article class="document" markdown="1">

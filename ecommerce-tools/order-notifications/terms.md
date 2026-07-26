@@ -1,7 +1,7 @@
 ---
 title: Order Notifications terms of service
 description: Terms of service for the Order Notifications Shopify app.
-permalink: /order-notifications/terms/
+permalink: /ecommerce-tools/order-notifications/terms/
 ---
 
 <article class="document" markdown="1">
@@ -14,7 +14,7 @@ permalink: /order-notifications/terms/
 These terms are an agreement between you, the merchant installing the app, and
 Ilia Kaziamov, an individual entrepreneur registered in Georgia
 (I/E ILIA KAZIAMOV) - "we" or "us". By installing or using Order Notifications
-you accept these terms and our [privacy policy](/order-notifications/privacy/).
+you accept these terms and our [privacy policy](/ecommerce-tools/order-notifications/privacy/).
 
 ## What this app does
 
@@ -48,7 +48,7 @@ about an order.
 
 How we access, use, retain, and delete data, including our role as a data
 processor for your store's order data, is described in our
-[privacy policy](/order-notifications/privacy/), which is part of these terms.
+[privacy policy](/ecommerce-tools/order-notifications/privacy/), which is part of these terms.
 
 ## Billing
 

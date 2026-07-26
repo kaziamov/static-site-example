@@ -1,7 +1,7 @@
 ---
 title: Order Notifications tutorial
 description: Setup tutorial for the Order Notifications Shopify app.
-permalink: /order-notifications/tutorial/
+permalink: /ecommerce-tools/order-notifications/tutorial/
 ---
 
 <article class="document" markdown="1">

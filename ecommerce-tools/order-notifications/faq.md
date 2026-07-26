@@ -1,7 +1,7 @@
 ---
 title: Order Notifications FAQ
 description: Frequently asked questions for merchants using Order Notifications.
-permalink: /order-notifications/faq/
+permalink: /ecommerce-tools/order-notifications/faq/
 ---
 
 <article class="document" markdown="1">

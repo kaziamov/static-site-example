@@ -1,7 +1,7 @@
 ---
 title: Order Notifications documentation
 description: Additional documentation for Order Notifications merchants and reviewers.
-permalink: /order-notifications/docs/
+permalink: /ecommerce-tools/order-notifications/docs/
 ---
 
 <article class="document" markdown="1">
@@ -13,12 +13,12 @@ permalink: /order-notifications/docs/
 
 | Resource | URL |
 |---|---|
-| Privacy policy | [/order-notifications/privacy/](/order-notifications/privacy/) |
-| Terms of service | [/order-notifications/terms/](/order-notifications/terms/) |
-| FAQ | [/order-notifications/faq/](/order-notifications/faq/) |
-| Changelog | [/order-notifications/changelog/](/order-notifications/changelog/) |
-| Setup tutorial | [/order-notifications/tutorial/](/order-notifications/tutorial/) |
-| Support | [/order-notifications/support/](/order-notifications/support/) |
+| Privacy policy | [/ecommerce-tools/order-notifications/privacy/](/ecommerce-tools/order-notifications/privacy/) |
+| Terms of service | [/ecommerce-tools/order-notifications/terms/](/ecommerce-tools/order-notifications/terms/) |
+| FAQ | [/ecommerce-tools/order-notifications/faq/](/ecommerce-tools/order-notifications/faq/) |
+| Changelog | [/ecommerce-tools/order-notifications/changelog/](/ecommerce-tools/order-notifications/changelog/) |
+| Setup tutorial | [/ecommerce-tools/order-notifications/tutorial/](/ecommerce-tools/order-notifications/tutorial/) |
+| Support | [/ecommerce-tools/order-notifications/support/](/ecommerce-tools/order-notifications/support/) |
 
 ## Permissions
 

@@ -1,6 +1,7 @@
 ---
 title: Developer website
 description: Public resource hub for Ecommerce Tools Shopify apps.
+permalink: /ecommerce-tools/
 ---
 
 <section class="hero" markdown="1">
@@ -14,8 +15,8 @@ and setup guides here. These pages are designed to be stable, public, and easy
 to reference from Shopify App Store resource fields.
 
 <div class="button-row" markdown="1">
-[Open Order Notifications](/order-notifications/){: .button }
-[Privacy policy](/order-notifications/privacy/){: .button-secondary }
+[Open Order Notifications](/ecommerce-tools/order-notifications/){: .button }
+[Privacy policy](/ecommerce-tools/order-notifications/privacy/){: .button-secondary }
 </div>
 </div>
 
@@ -26,17 +27,17 @@ to reference from Shopify App Store resource fields.
 
 <dl>
   <dt>Privacy policy URL</dt>
-  <dd><a href="/order-notifications/privacy/">/order-notifications/privacy</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/privacy/">/ecommerce-tools/order-notifications/privacy</a></dd>
   <dt>Developer website</dt>
-  <dd><a href="/">ecommerce-tools.kaziamov.com</a></dd>
+  <dd><a href="/ecommerce-tools/">apps.kaziamov.com/ecommerce-tools</a></dd>
   <dt>FAQ</dt>
-  <dd><a href="/order-notifications/faq/">/order-notifications/faq</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/faq/">/ecommerce-tools/order-notifications/faq</a></dd>
   <dt>Changelog</dt>
-  <dd><a href="/order-notifications/changelog/">/order-notifications/changelog</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/changelog/">/ecommerce-tools/order-notifications/changelog</a></dd>
   <dt>Tutorial</dt>
-  <dd><a href="/order-notifications/tutorial/">/order-notifications/tutorial</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/tutorial/">/ecommerce-tools/order-notifications/tutorial</a></dd>
   <dt>Additional documentation</dt>
-  <dd><a href="/order-notifications/docs/">/order-notifications/docs</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/docs/">/ecommerce-tools/order-notifications/docs</a></dd>
 </dl>
 </aside>
 </section>
@@ -49,7 +50,7 @@ Route new Shopify orders to the people who fulfill them. Merchants define
 recipient rules, choose filters, and decide which order details each recipient
 can see.
 
-[View app resources](/order-notifications/)
+[View app resources](/ecommerce-tools/order-notifications/)
 </article>
 
 <article class="app-card" markdown="1">
@@ -58,7 +59,7 @@ can see.
 Each app gets its own URL namespace so Shopify resource links stay stable as the
 catalog grows.
 
-Current namespace: `/order-notifications/`.
+Current namespace: `/ecommerce-tools/order-notifications/`.
 </article>
 
 <article class="app-card" markdown="1">

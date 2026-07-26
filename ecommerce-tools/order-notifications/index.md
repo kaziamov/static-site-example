@@ -1,7 +1,7 @@
 ---
 title: Order Notifications
 description: Public legal and support resources for the Order Notifications Shopify app.
-permalink: /order-notifications/
+permalink: /ecommerce-tools/order-notifications/
 ---
 
 <section class="hero" markdown="1">
@@ -15,8 +15,8 @@ store receives a new order. Merchants choose who gets notified, which orders
 qualify, and what details each recipient is allowed to see.
 
 <div class="button-row" markdown="1">
-[Privacy policy](/order-notifications/privacy/){: .button }
-[Setup tutorial](/order-notifications/tutorial/){: .button-secondary }
+[Privacy policy](/ecommerce-tools/order-notifications/privacy/){: .button }
+[Setup tutorial](/ecommerce-tools/order-notifications/tutorial/){: .button-secondary }
 </div>
 </div>
 
@@ -27,17 +27,17 @@ qualify, and what details each recipient is allowed to see.
 
 <dl>
   <dt>Privacy</dt>
-  <dd><a href="/order-notifications/privacy/">/order-notifications/privacy</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/privacy/">/ecommerce-tools/order-notifications/privacy</a></dd>
   <dt>Terms</dt>
-  <dd><a href="/order-notifications/terms/">/order-notifications/terms</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/terms/">/ecommerce-tools/order-notifications/terms</a></dd>
   <dt>FAQ</dt>
-  <dd><a href="/order-notifications/faq/">/order-notifications/faq</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/faq/">/ecommerce-tools/order-notifications/faq</a></dd>
   <dt>Changelog</dt>
-  <dd><a href="/order-notifications/changelog/">/order-notifications/changelog</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/changelog/">/ecommerce-tools/order-notifications/changelog</a></dd>
   <dt>Tutorial</dt>
-  <dd><a href="/order-notifications/tutorial/">/order-notifications/tutorial</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/tutorial/">/ecommerce-tools/order-notifications/tutorial</a></dd>
   <dt>Docs</dt>
-  <dd><a href="/order-notifications/docs/">/order-notifications/docs</a></dd>
+  <dd><a href="/ecommerce-tools/order-notifications/docs/">/ecommerce-tools/order-notifications/docs</a></dd>
 </dl>
 </aside>
 </section>

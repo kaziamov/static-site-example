@@ -1,7 +1,7 @@
 ---
 title: Order Notifications Shopify App Pricing proof
 description: Proof of resolution for the Shopify App Pricing 404 review issue.
-permalink: /order-notifications/review-proof-20260721/
+permalink: /ecommerce-tools/order-notifications/review-proof-20260721/
 ---
 
 <article class="document" markdown="1">
